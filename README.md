@@ -16,8 +16,8 @@ If you have troubles with the deps, check the resource.cfg for
 deps : [ chat ] and at your own chat resource.
 
 ## Credits for basic source
-This repository depends on https://ko-fi.com/s/0ca8fe898a
-It was made for alt:V Server 4.0-rc1 (rc) but its discontinued.
+This repository depends on https://ko-fi.com/s/0ca8fe898a<br>
+It was made for alt:V Server 4.0-rc1 (rc) but it is discontinued.
 
 I updated it for the latest Version from alt:V 7.3
 Please let Poiivre a bit love there. Thanks 💖
