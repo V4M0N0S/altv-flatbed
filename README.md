@@ -19,7 +19,7 @@ deps : [ chat ] and at your own chat resource.
 This repository depends on https://ko-fi.com/s/0ca8fe898a<br>
 It was made for alt:V Server 4.0-rc1 (rc) but it is discontinued.
 
-I updated it for the latest Version from alt:V 7.3
+I updated it for the latest Version from alt:V 7.3<br>
 Please let Poiivre a bit love there. Thanks 💖
 
 ## Contributing
