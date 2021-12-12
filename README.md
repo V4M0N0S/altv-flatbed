@@ -1,5 +1,7 @@
 # FLATBED Script for alt:V
-This is a small resource for towing cars with a flatbed in alt:V
+This is a small resource for towing cars with a flatbed in alt:V<br>
+Small preview: https://streamable.com/4oma58
+
 
 ## Current features
 🔸 Park your flatbed infront of a car
