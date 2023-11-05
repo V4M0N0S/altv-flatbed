@@ -2,8 +2,10 @@
 This is a small resource for towing cars with a flatbed in alt:V<br>
 Small preview: https://streamable.com/4oma58
 
+## Current project status
+🔸 This project has been discontinued.
 
-## Current features
+## Current / last integrated features
 🔸 Park your flatbed infront of a car
 
 🔸 Press G to put it on your flatbed
@@ -36,7 +38,7 @@ Please let Poiivre a bit love there. Thanks 💖
 For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact me
-☎️ Open an issue or contact me via Discord: V4M0N0S#0001
+☎️ Open an issue or contact me via mail: vamonos@posteo.me or Discord: vamonos.me
 
 ## License
 👍 [MIT](https://choosealicense.com/licenses/mit/) - Feel free to share, work with it or clone to your own repository!
